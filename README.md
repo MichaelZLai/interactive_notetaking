@@ -1,6 +1,6 @@
 # Interactive Notetaking
 
-The title of this thesis is "Interactive Note Taking System for One-on-one Meeting using Summarized Audio Transcription" This is in collaboration with the University of Washington and Tsinghua University for Michael Lai's masters thesis.
+This is in collaboration with the University of Washington and Tsinghua University for Michael Lai's masters thesis. The title of this thesis is "Interactive Note Taking System for One-on-one Meeting using Summarized Audio Transcription".
 
 ## Getting Started
 
@@ -13,7 +13,6 @@ What things you need to install the software and how to install them
 ```
 XXX
 XXX
-
 ```
 
 ### Installing
@@ -41,12 +40,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [React](https://reactjs.org/) - The front end web framework used
+
 
 ## Authors
 
-* **Michael Lai** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Ziqi Wang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Michael Lai**
+* **Ziqi Wang**
 
