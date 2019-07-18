@@ -1,17 +1,17 @@
 import webbrowser as wb
 import speech_recognition as sr
 
-
-print('hello I am working')
-
+# Establishes different recognizers
 r1 = sr.Recognizer()
 r2 = sr.Recognizer()
 r3 = sr.Recognizer()
 
+# Opens microphone and records audio
 with sr.Microphone() as source:
     print('[search edureka: search youtube]')
     print('speak now')
     audio = r3.listen(source)
+
 
 if 'video' in r1.recognize_google(audio):
     r1 = sr.Recognizer()
