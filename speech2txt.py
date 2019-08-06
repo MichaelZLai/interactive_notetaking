@@ -8,8 +8,7 @@ r3 = sr.Recognizer()
 
 # Opens microphone and records audio
 with sr.Microphone() as source:
-    print('[search edureka: search youtube]')
-    print('speak now')
+    print('say video')
     audio = r3.listen(source)
 
 
@@ -17,7 +16,7 @@ if 'video' in r1.recognize_google(audio):
     r1 = sr.Recognizer()
     url = 'https://www.youtube.com/results?search_query='
     with sr.Microphone() as source:
-        print('search yfor a video')
+        print('What do you want to search on youtube?')
         audio = r1.listen(source)
 
         try:
