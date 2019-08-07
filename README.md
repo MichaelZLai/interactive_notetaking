@@ -14,7 +14,7 @@ What things you need to install the software and how to install them
 sudo python3 -m pip install SpeechRecognition [Speech Recognition dependency]
 sudo python3 -m pip install pymongo [Utilize MongoDB]
 sudo python3 -m pip install marshmallow [ORM framework to convert to native python datatypes]
-XXX
+
 ```
 
 ### Installing
