@@ -13,6 +13,7 @@ What things you need to install the software and how to install them
 ```bash
 sudo python3 -m pip install SpeechRecognition [Speech Recognition dependency]
 sudo python3 -m pip install pydub [Audio Manipulation tool]
+sudo python3 -m pip install pathlib [Manage file & path library]
 
 ```
 
