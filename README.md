@@ -13,15 +13,10 @@ What things you need to install the software and how to install them
 ```bash
 sudo python3 -m pip install SpeechRecognition [Speech Recognition dependency]
 sudo python3 -m pip install pydub [Audio Manipulation tool]
-sudo python3 -m pip install pathlib [Manage file & path library]
+sudo python3 -m pip install tqdm [Extensible progress bar]
+sudo python3 -m pip install requests [Manage HTTP requests]
 
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Deployment
 
